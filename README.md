@@ -2,13 +2,13 @@
 
 ¡Hola, mundo! 🚀 Soy Irene 👋
 
-Mi pasión por profundizar en el porqué de las cosas me llevó de investigar realidades complejas en los medios de comunicación a desentrañarlas a través de los datos y los algoritmos.[cite: 1]
+Mi pasión por profundizar en el porqué de las cosas me llevó de investigar realidades complejas en los medios de comunicación a desentrañarlas a través de los datos y los algoritmos.
 
-Soy una Data Scientist Junior con una misión clara: transformar datos en bruto en historias visuales, insights accionables y soluciones inteligentes. Tras consolidar mi formación intensiva en el BBK Bootcamp de Data Science & IA (490 h), combino el rigor analítico de la ciencia de datos con mi experiencia previa gestionando estrategias digitales y audiencias masivas.[cite: 1]
+Soy una Data Scientist Junior con una misión clara: transformar datos en bruto en historias visuales, insights accionables y soluciones inteligentes. Tras consolidar mi formación intensiva en el BBK Bootcamp de Data Science & IA (490 h), combino el rigor analítico de la ciencia de datos con mi experiencia previa gestionando estrategias digitales y audiencias masivas.
 
 Me caracteriza una curiosidad insaciable y unas ganas inmensas de aprender, colaborar y aportar valor desde el día uno. Si hay un problema complejo, un dataset desordenado o una nueva tecnología que dominar... ¡cuenta conmigo! 🎯
 
-¿Mi superpoder? No solo he construido modelos predictivos y arquitecturas de IA (LLMs, RAG), sino que sé cómo traducir esos datos complejos en soluciones de negocio tangibles y narrativas que impactan.[cite: 1]
+¿Mi superpoder? No solo he construido modelos predictivos y arquitecturas de IA (LLMs, RAG), sino que sé cómo traducir esos datos complejos en soluciones de negocio tangibles y narrativas que impactan.
 
 ¡Tengo muchísimas ganas de aportar esta energía, aprender sin parar y destacar en mi próximo gran reto en ingeniería de IA o Data Analysis! 🚀
 
